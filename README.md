@@ -82,5 +82,8 @@ _Frontend runs at_ **`http://localhost:5173/`**
 
 ---
 
+## Screenshot
+![Image](https://github.com/user-attachments/assets/0328d2af-fa92-4508-ad50-2145260b6f1b)
+
 # Happy Coding! 🚀
 
